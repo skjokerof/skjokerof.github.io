@@ -638,8 +638,9 @@ a:visited {
         margin-top: 60px;
     }
     .third-section {
+        padding-left:0;
         float: right;
-        width: 40%;
+        width: 35%;
     }
     .main-navigation--main {
         float: left;
