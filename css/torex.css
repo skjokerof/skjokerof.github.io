@@ -619,6 +619,10 @@ a:visited {
 /* ------------------------480px*/
 
 @media screen and (min-width: 320px) {
+    body {
+        min-width: 480px;
+        margin: 0 auto;
+    }
     .first-section {
         margin: 0 auto;
     }
