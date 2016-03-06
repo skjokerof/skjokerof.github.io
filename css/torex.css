@@ -630,16 +630,16 @@ a:visited {
         margin-left: 6%;
     }
     .second-section {
-        width: 50%;
-        display: inline-block;
+        width: 60%;
+        float:left;
         margin-left: 0;
     }
     .second-section a {
         margin-top: 60px;
     }
     .third-section {
-        display: inline-block;
-        width: 50%;
+        float: right;
+        width: 40%;
     }
     .main-navigation--main {
         float: left;
