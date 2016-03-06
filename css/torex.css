@@ -39,7 +39,9 @@ a:visited {
 
 /*Header start------------------------------------------------*/
 
-.main-header {}
+.main-header {
+    min-width:480px;
+}
 
 .main-header:after {
     display: block;
